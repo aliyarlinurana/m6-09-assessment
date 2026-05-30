@@ -1,0 +1,13 @@
+{
+  "first_name": "Nurana",
+  "last_name": "Aliyarli",
+  "team": "nurana-aliyarli",
+  "model": {
+    "framework": "yolo26",
+    "variant": "yolo26s",
+    "imgsz": 640,
+    "epochs_total": 70,
+    "tricks": ["stronger_augmentation", "two_stage_finetune", "cos_lr"]
+  },
+  "notes": "Stage 1: frozen backbone 10 epochs, Stage 2: full finetune 60 epochs with mosaic, copy_paste, mixup"
+}
