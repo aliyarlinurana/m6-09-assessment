@@ -1,3 +1,9 @@
+## Image for leaderboard
+docker pull nurana20/cat-detector:final
+
+Image: nurana20/cat-detector:final
+Student: Nurana Aliyarli
+
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Final Assessment | Cat Detection v2 — Improve, Export to ONNX, Containerise & Compete
