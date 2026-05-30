@@ -377,3 +377,9 @@ During the class activity period the instructor will:
 5. Publish a live leaderboard table.
 
 The activity is collaborative — bring questions, watch how others approached the problem, and look for design choices that translate to your future production work.
+
+## Image for leaderboard
+docker pull nurana20/cat-detector:final
+
+Image: nurana20/cat-detector:final
+Student: Nurana Aliyarli
