@@ -1,4 +1,3 @@
-Image: nurana20/cat-detector:final
 Student: Nurana Aliyarli
 
 ## Image for leaderboard
