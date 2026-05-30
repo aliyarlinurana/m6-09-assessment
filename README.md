@@ -1,4 +1,11 @@
 ## Image for leaderboard
+
+docker pull nurana20/cat-detector:final
+
+Image: nurana20/cat-detector:final
+Student: Nurana Aliyarli
+
+## Image for leaderboard
 docker pull nurana20/cat-detector:final
 
 Image: nurana20/cat-detector:final
@@ -377,9 +384,3 @@ Paste the link to your Pull Request in the Student Portal.
 During the class activity period the instructor will:
 
 1. Pull every student's image from the registry.
-2. Run `docker run --rm <image> info` to populate the leaderboard with `first_name + last_name`.
-3. Run `docker run --rm -v /unseen/holdout:/data/input:ro -v /tmp/<student>/out:/data/output <image> predict` for each image.
-4. Score the resulting `predictions.csv` against the held-out ground truth using **mAP@0.5** as the primary metric, with mean inference time per image as the tiebreaker.
-5. Publish a live leaderboard table.
-
-The activity is collaborative — bring questions, watch how others approached the problem, and look for design choices that translate to your future production work.
