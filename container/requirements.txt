@@ -1,4 +1,4 @@
 onnxruntime==1.18.0
-numpy
+numpy==1.26.4
 pillow
 opencv-python-headless
