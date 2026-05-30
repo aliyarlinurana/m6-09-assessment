@@ -1,4 +1,3 @@
-Student: Nurana Aliyarli
 
 ## Image for leaderboard
 docker pull nurana20/cat-detector:final
