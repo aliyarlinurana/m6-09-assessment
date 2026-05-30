@@ -377,10 +377,3 @@ Paste the link to your Pull Request in the Student Portal.
 | Code quality & communication | 10% | Readable code, useful comments where intent is non-obvious, sensible repo layout |
 | Leaderboard performance | 10% | Bonus weight for relative mAP@0.5 ranking on the unseen instructor holdout |
 
-> If your container does not run, or the CSV does not parse, the leaderboard run is skipped — but the rest of the rubric still applies. Compliance > performance.
-
-## What Happens on Friday's Class Activity
-
-During the class activity period the instructor will:
-
-1. Pull every student's image from the registry.
